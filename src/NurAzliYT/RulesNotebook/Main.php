@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace NurAzliYT\RulesNoteBook;
+namespace NurAzliYT\RulesNotebook;
 
 use cooldogedev\libBook\LibBook;
 use pocketmine\command\Command;
