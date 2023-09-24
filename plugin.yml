@@ -1,7 +1,7 @@
 ---
 name: RulesNoteBook
 version: 0.0.1
-main: NurAzliYT\RulesNoteBook\Main
+main: NurAzliYT\RulesNotebook\Main
 api: 5.0.0
 description: Show preview rules notebook when a player first joins the server or uses /rulesnotebook command
 author: NurAzliYT
