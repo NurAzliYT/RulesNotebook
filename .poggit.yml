@@ -1,4 +1,4 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/nhanaz-pm-pl/RulesBook
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/NurAzliYT/RulesNoteBook
 build-by-default: true
 branches:
 - master
