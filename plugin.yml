@@ -3,12 +3,12 @@ name: RulesNoteBook
 version: 0.0.1
 main: NurAzliYT\NoteRulesBook\Main
 api: 5.0.0
-description: Show preview rules book when a player first joins the server or uses /rulesbook command
+description: Show preview rules book when a player first joins the server or uses /rulesnotebook command
 author: NurAzliYT
 
 commands:
   rulesnotebook:
-    description: Show preview rules book
+    description: Show preview rules notebook
     aliases: [rules, rulesbook, rulesnote]
     permission: rulesnotebook.command
 permissions:
