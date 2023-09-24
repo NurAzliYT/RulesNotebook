@@ -3,7 +3,7 @@ name: RulesNoteBook
 version: 0.0.1
 main: NurAzliYT\NoteRulesBook\Main
 api: 5.0.0
-description: Show preview rules book when a player first joins the server or uses /rulesnotebook command
+description: Show preview rules notebook when a player first joins the server or uses /rulesnotebook command
 author: NurAzliYT
 
 commands:
